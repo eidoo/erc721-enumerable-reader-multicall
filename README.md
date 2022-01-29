@@ -6,6 +6,15 @@ The contract can be deployed using CREATE2 in order to have the same address on 
 
 &nbsp;
 
+### Addresses
+
+```js
+Factory: 0xB10CeCcBe00572deE94cF0514581d3695A8Cd596
+ERC721EnumerableReaderMulticall: 0x3e7e3d13d7babc56b753c704a1da4c103b8f96f4
+```
+
+&nbsp;
+
 ***
 
 &nbsp;
