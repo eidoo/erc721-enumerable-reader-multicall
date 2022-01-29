@@ -1,4 +1,4 @@
-# erc721-enumerable-reader-multicall-reader-multicall
+# erc721-enumerable-reader-multicall
 
 
 Simple contract to read all ids given a set of owner addresses and a set of token addresses for all `ERC721Enumerable` in a single call.
